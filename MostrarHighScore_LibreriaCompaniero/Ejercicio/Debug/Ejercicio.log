@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: símbolo externo _InitWindow sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _WindowShouldClose sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _CloseWindow sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _ClearBackground sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _BeginDrawing sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _EndDrawing sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _SetTargetFPS sin resolver al que se hace referencia en la función _main
+Source.obj : error LNK2019: símbolo externo _DrawText sin resolver al que se hace referencia en la función _main
+C:\Users\Administrador\Desktop\MostrarHighScore_LibreriaCompaniero\Debug\Ejercicio.exe : fatal error LNK1120: 8 externos sin resolver
